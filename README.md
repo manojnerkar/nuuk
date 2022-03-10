@@ -1,3 +1,2 @@
-This is just Simple One page website
-I crated this webstie using HTML and CSS 
-
+Project name is NUUK i created this website with help of 
+HTML and CSS 

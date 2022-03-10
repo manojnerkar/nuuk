@@ -28,7 +28,7 @@ body {
       rgba(179, 179, 179, 0.9),
       rgba(249, 128, 125, 0)
     ),
-    url("https://nuuk-e3eaa.firebaseapp.com/assets/img/slide-2.jpg");
+    url("/assets/slide-2.jpg");
 
   /* background-attachment: fixed; */
   /* clip-path: circle(40%); */
@@ -458,7 +458,7 @@ div ul li a:hover {
       rgba(255, 119, 0, 0.9),
       rgba(249, 128, 125, 0.9)
     ),
-    url("https://nuuk-e3eaa.firebaseapp.com/assets/img/banner-2.jpg");
+    url("/assets/banner.jpg");
 }
 .color-voerlay {
   color: #e47312;
@@ -753,5 +753,5 @@ div ul li a:hover {
 
 .hover-effect:hover {
   opacity: 0.8;
-  background-image: url(https://png.pngitem.com/pimgs/s/211-2114642_quote-box-png-circle-transparent-png.png);
+ 
 }
